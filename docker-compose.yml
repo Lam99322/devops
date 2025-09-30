@@ -6,5 +6,5 @@ services:
     image: devops-day3:latest  
     container_name: devops-day3
     ports:
-      - "3000:3000"
+      - "8000:8000"
     restart: always
